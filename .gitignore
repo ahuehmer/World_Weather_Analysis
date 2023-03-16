@@ -1,3 +1,6 @@
+# Files to ignore, added my me
+api_keys.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
