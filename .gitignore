@@ -1,5 +1,6 @@
 # Files to ignore, added my me
-api_keys.py
+WeatherPy/api_keys.py
+WeatherPy/__pycache__/api_keys.cpython-37.pyc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
